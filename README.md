@@ -1,9 +1,9 @@
 # Digital-Literacy-Project
 A Digital Literacy Project showcasing infographic design, online safety awareness, Google Forms quiz creation, coding practice and professional communication skills.
 
-Name: Aryan Gehlot 
-Reg No: 25BAI10818 
-Branch: Artificial Intelligence and Machine Learning
+  - Name: Aryan Gehlot 
+  - Reg No: 25BAI10818 
+  - Branch: Artificial Intelligence and Machine Learning
 
 # Overview
 This repository contains my Digital Literacy Project covering topics like online safety, digital communication, and professional online presence.
